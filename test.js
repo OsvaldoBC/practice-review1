@@ -1,3 +1,3 @@
 let a=5;
-leb b='';
+let b='';
 let c = b+c;
